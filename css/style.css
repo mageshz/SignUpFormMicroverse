@@ -1,0 +1,27 @@
+#header,#survey-form{
+    position:relative;
+    left: 40%;
+    margin-right: -50%;
+}
+.elements{
+    padding: 10px;
+}
+#submit{
+    width:15%;
+   height:40px;
+    
+    
+}
+#name,#email,#number,#dropdown{
+    width:10%;
+    height:20px;
+}
+#area{
+    width:15% ;
+}
+body{
+    font-family: Arial;
+    background-color:lightblue;
+    /* text-align:center;
+    display: inline-block; */
+}
